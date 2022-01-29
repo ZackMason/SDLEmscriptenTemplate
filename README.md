@@ -9,4 +9,5 @@ A starter template for building SDL2 games in c++ 20 with support for emscripten
 - Configure project for desired compiler
 - Set SDL*_dir variable when prompted
 - Generate build files
+- Add SDL dlls to PATH for windows
 - To build emscripten run web_build/EmscriptenBuild.(bat|sh)
